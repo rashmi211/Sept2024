@@ -1,0 +1,59 @@
+
+1 byte= 8 bit
+
+boolean=size decided by JVM
+
+char =2 byte
+
+
+Byte = 1 byte
+Short = 2 byte
+int =4 byte
+long = 8 byte	
+
+float=4 byte
+double = 8 byte
+=======================================================
+WebService
+
+
+Client : service consumer
+Server : Service provider
+
+WSDL : Web Service Discriptive language
+XML based interface used to describe functionality of web service
+
+UDDI : Universal Description,Discovery and integration(xml based std for publishing and finding ws)
+server publish his web service (through WSDL) on online directory 
+from where client can search and query the web services.
+This online registry/directory called as UDDI
+
+
+What are soap web service?
+Web service that complies with web service specification is SOAP web service.
+
+
+What are these spec and std?
+SOAP : SIMPLE Object Access Protocol
+protocol/rule/definaion how two app will talk to each other
+
+All info exchange happens in xml format
+XML msg have defined structure i.e soap msg
+it consist of 
+Envelope,
+header and -------provide info abt the msg (optional)
+body---contain actual data of request meant to sent to server
+
+
+
+
+
+
+
+Who define and dictate these std?-W3C(World wide web consortium)
+
+
+
+
+
+
