@@ -46,11 +46,10 @@ body---contain actual data of request meant to sent to server
 
 
 
-
-
-
-
 Who define and dictate these std?-W3C(World wide web consortium)
+
+
+1.File of version 1
 
 
 
