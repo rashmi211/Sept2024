@@ -8,3 +8,6 @@ git log
 
 
 git diff -to see wht changes you have added to file from last commits
+
+
+git remote add origin repolocation
